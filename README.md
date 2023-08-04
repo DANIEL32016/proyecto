@@ -1,2 +1,0 @@
-# FigmagWed
-imagen hero
